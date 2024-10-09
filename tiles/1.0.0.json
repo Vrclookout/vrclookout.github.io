@@ -1,5 +1,8 @@
 {
-    "basePath": "src/",
+    "name": "tiles",
+    "title": "The Lookout Drinking Game",
+    "latestVersion": "1.0.0",
+    "date": "10/09/2024",
     "tiles": [
         {
             "alt": "Just Drink",
@@ -129,7 +132,7 @@
         {
             "alt": "DECISION DRINKS: Who is most likely to have their partner cheat on them?",
             "src": "29.png",
-            "targets": 0
+            "targets": 2
         },
         {
             "alt": "CATEGORIES: Pick a category and go around naming items. Drink if you can't think of one or repeat.",
@@ -259,12 +262,12 @@
         {
             "alt": "Give a compliment to the person tagged below and take a drink together",
             "src": "60.png",
-            "targets": 0
+            "targets": 1
         },
         {
             "alt": "TED TALK: Give a talk for 1 minute on a topic given to you by the player tagged below. If you fail, take 5 drinks.",
             "src": "61.png",
-            "targets": 0
+            "targets": 1
         },
         {
             "alt": "Anyone who has a profile on a dating app, drink",
