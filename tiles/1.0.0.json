@@ -1,0 +1,380 @@
+{
+    "basePath": "src/",
+    "tiles": [
+        {
+            "alt": "Just Drink",
+            "src": "1.png",
+            "targets": 0
+        },
+        {
+            "alt": "Everybody Drinks",
+            "src": "2.png",
+            "targets": 0
+        },
+        {
+            "alt": "All the single people drink",
+            "src": "3.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone in a couple drinks",
+            "src": "4.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink for every year  you have knowned the person tagged below",
+            "src": "6.png",
+            "targets": 1
+        },
+        {
+            "alt": "Blondes drink",
+            "src": "7.png",
+            "targets": 0
+        },
+        {
+            "alt": "Brunettes drink",
+            "src": "8.png",
+            "targets": 0
+        },
+        {
+            "alt": "Gingers drink",
+            "src": "9.png",
+            "targets": 0
+        },
+        {
+            "alt": "Black-haired people drink",
+            "src": "10.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who is not straight, drink!",
+            "src": "11.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone with a one syllable name, drink",
+            "src": "12.png",
+            "targets": 0
+        },
+        {
+            "alt": "EVERYONE: Make an animal noise then drink",
+            "src": "13.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has ever dyed their hair, drink",
+            "src": "14.png",
+            "targets": 0
+        },
+        {
+            "alt": "TRUTH OR DARE",
+            "src": "16.png",
+            "targets": 1
+        },
+        {
+            "alt": "Anyone who claims they are not drunk must drink",
+            "src": "17.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink for however many countries you've been to",
+            "src": "18.png",
+            "targets": 0
+        },
+        {
+            "alt": "You can't speak your native language for an entire round",
+            "src": "19.png",
+            "targets": 0
+        },
+        {
+            "alt": "Pick a word that is banned for one round. Anyone who says it must drink.",
+            "src": "20.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who wears glasses must drink",
+            "src": "21.png",
+            "targets": 0
+        },
+        {
+            "alt": "Pick a word that everyone must end their sentences with for one round. Anyone who forgets must drink.",
+            "src": "22.png",
+            "targets": 0
+        },
+        {
+            "alt": "Tell a joke. If nobody laughs then drink",
+            "src": "23.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has eaten during the game, drink!",
+            "src": "24.png",
+            "targets": 0
+        },
+        {
+            "alt": "DECISION DRINKS: Who would you rather make out with?",
+            "src": "25.png",
+            "targets": 2
+        },
+        {
+            "alt": "DECISION DRINKS: Who would win in a fight?",
+            "src": "26.png",
+            "targets": 2
+        },
+        {
+            "alt": "DECISION DRINKS: Who is most likely to end up alone?",
+            "src": "28.png",
+            "targets": 2
+        },
+        {
+            "alt": "DECISION DRINKS: Who is most likely to have their partner cheat on them?",
+            "src": "29.png",
+            "targets": 0
+        },
+        {
+            "alt": "CATEGORIES: Pick a category and go around naming items. Drink if you can't think of one or repeat.",
+            "src": "31.png",
+            "targets": 0
+        },
+        {
+            "alt": "Everyone ignore this player for one round",
+            "src": "32.png",
+            "targets": 0
+        },
+        {
+            "alt": "TRUTH OR LIE: Make a statement about yourself that's either true or false. Other players decide if it's true or not. If they are correct, you drink, if not, then they drink.",
+            "src": "33.png",
+            "targets": 3
+        },
+        {
+            "alt": "The last person who drank must drink again!",
+            "src": "34.png",
+            "targets": 0
+        },
+        {
+            "alt": "Choose someone to drink!",
+            "src": "35.png",
+            "targets": 0
+        },
+        {
+            "alt": "RAP GOD: Perform a freestyle rap or drink three times",
+            "src": "36.png",
+            "targets": 0
+        },
+        {
+            "alt": "Give out five sips to anyone who deserves an extra drink!",
+            "src": "37.png",
+            "targets": 0
+        },
+        {
+            "alt": "BABY TALK: Talk like a baby for the next round. Drink everytime you don't",
+            "src": "38.png",
+            "targets": 0
+        },
+        {
+            "alt": "POP STAR: Sing everything you say for the next round. Drink if you don't",
+            "src": "40.png",
+            "targets": 0
+        },
+        {
+            "alt": "WATERFALL: Everyone must start drinking with you and can't stop until you do",
+            "src": "41.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has made out with someone in a club, drink!",
+            "src": "42.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has forgotten a night out, drink",
+            "src": "43.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone with a cartoon avatar must drink!",
+            "src": "45.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink with the player you have known the longest",
+            "src": "47.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has thrown up from being drunk, drink",
+            "src": "48.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has cheated or been cheated on, drink",
+            "src": "49.png",
+            "targets": 0
+        },
+        {
+            "alt": "QUESTION MASTER: If anyone answers your questions for the next round, they drink",
+            "src": "50.png",
+            "targets": 0
+        },
+        {
+            "alt": "ACCENT: Talk in a foreign accent for the next round. Drink if you break character.",
+            "src": "51.png",
+            "targets": 0
+        },
+        {
+            "alt": "YOU ARE THE BULLY: Only speak in insults for the next round. Drink if you don't",
+            "src": "52.png",
+            "targets": 0
+        },
+        {
+            "alt": "YOU ARE THE BROWN-NOSE: Only speak in compliments for the next round. Drink if you don't",
+            "src": "53.png",
+            "targets": 0
+        },
+        {
+            "alt": "SHUT UP! You cannot speak for the next round. If you speak, drink",
+            "src": "55.png",
+            "targets": 0
+        },
+        {
+            "alt": "THE FOOL: You cannot answer questions for the next round. If you do, drink",
+            "src": "56.png",
+            "targets": 0
+        },
+        {
+            "alt": "THE KING'S SPEECH: Give an inspirational speech. If people don't like it, drink",
+            "src": "57.png",
+            "targets": 0
+        },
+        {
+            "alt": "RULE MAKER: Make a rule for the rest of the game. If anyone breaks it, they drink.",
+            "src": "58.png",
+            "targets": 0
+        },
+        {
+            "alt": "Play a round of 'Never Have I Ever'. Losers drink",
+            "src": "59.png",
+            "targets": 0
+        },
+        {
+            "alt": "Give a compliment to the person tagged below and take a drink together",
+            "src": "60.png",
+            "targets": 0
+        },
+        {
+            "alt": "TED TALK: Give a talk for 1 minute on a topic given to you by the player tagged below. If you fail, take 5 drinks.",
+            "src": "61.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who has a profile on a dating app, drink",
+            "src": "62.png",
+            "targets": 0
+        },
+        {
+            "alt": "Anyone who is currently in their bedroom, drink",
+            "src": "63.png",
+            "targets": 0
+        },
+        {
+            "alt": "BANANA SPLIT: Divide out 10 drinks to the people of your choosing.",
+            "src": "64.png",
+            "targets": 0
+        },
+        {
+            "alt": "Take 5 drinks",
+            "src": "65.png",
+            "targets": 0
+        },
+        {
+            "alt": "SNOWBALL: Take a drink. Each person then takes one more drink than the person before them until it returns back to you.",
+            "src": "68.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you have a cat",
+            "src": "69.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you have a dog",
+            "src": "70.png",
+            "targets": 0
+        },
+        {
+            "alt": "PROPOSAL: Pretend to propose to the person tagged below or take 5 drinks",
+            "src": "71.png",
+            "targets": 1
+        },
+        {
+            "alt": "Drink if you have taken a picture during this game",
+            "src": "72.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you have spilled your drink tonight",
+            "src": "73.png",
+            "targets": 0
+        },
+        {
+            "alt": "Take a drink without using your hands",
+            "src": "74.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink for however many siblings you have",
+            "src": "75.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you were born in the winter",
+            "src": "76.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you were born in the autumn",
+            "src": "77.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you were born in the summer",
+            "src": "78.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink if you were born in the spring",
+            "src": "79.png",
+            "targets": 0
+        },
+        {
+            "alt": "Drink as many times as there are players in the game",
+            "src": "80.png",
+            "targets": 0
+        },
+        {
+            "alt": "SOCIAL POST: The person tagged below must choose something for you to post to your social media. If you don't, drink 5.",
+            "src": "81.png",
+            "targets": 1
+        },
+        {
+            "alt": "Smokers, drink",
+            "src": "82.png",
+            "targets": 0
+        },
+        {
+            "alt": "Vapers, drink",
+            "src": "83.png",
+            "targets": 0
+        },
+        {
+            "alt": "Read out your last text or take 3 drinks",
+            "src": "84.png",
+            "targets": 0
+        },
+        {
+            "alt": "DECISION DRINKS: Who is most likely to die first?",
+            "src": "Screenshot_4.png",
+            "targets": 2
+        }
+    ]
+}
