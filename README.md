@@ -4,8 +4,8 @@ A public repository for The Lookout VRChat hosted content
 
 ## Table Of Contents
 
-* Support
-* Usage
+* [Support](#support)
+* [Contributing](#contributing)
 
 ## Support
 
